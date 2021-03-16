@@ -3,4 +3,4 @@
 * Website used for data scraping :
   - https://www.worldometers.info/coronavirus/
 * Link for my tableau side of this project is as follows :
-  - https://public.tableau.com/views/FinalDraft_16153083370010/FinalStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+  - https://public.tableau.com/views/FinalDraft_16153083370010/FinalStory?:language=en&:display_count=y&:origin=viz_share_link
